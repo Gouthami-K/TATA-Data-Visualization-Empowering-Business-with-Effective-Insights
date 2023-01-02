@@ -1,8 +1,8 @@
-# TATA-Data-Visualization-Empowering-Business-with-Effective-Insights
+# TATA: Data Visualization Empowering Business with Effective Insights
 The internship included 4 tasks:
 
 ## 1. Framing the Business Scenario
-For this task, we need to draft questions, eight questions in total (4 for the CEO and 4 for the CMO) that are both quantitative and qualitative.It should be            important and relevant to the CEO and CMO.
+For this task, we need to draft questions, eight questions in total (4 for the CEO and 4 for the CMO) that are both quantitative and qualitative.
 A dataset has been provided as the basis for exploration. Data has to be reviewed, taking note of what information has been provided, what insights one can             garner, and what is relevant to both the CEO and CMO respectively.
         
 ## 2. Choosing the Right Visuals
