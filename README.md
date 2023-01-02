@@ -10,7 +10,7 @@ This task will help us get an idea on which visual to select for the given busin
        
 ## 3. Creating Effective Visuals
 Here before begining the analysis, we have make sure that the data is cleaned properly.\
-Data cleaning:we need to use conditional formulas where the logic would state that if the conditions are met then the tool should exclude the data from                analysis.We can also use data transformation methods to get rid of the bad data.
+Data cleaning: We need to use conditional formulas where the logic would state that if the conditions are met then the tool should exclude the data from                analysis.We can also use data transformation methods to get rid of the bad data.
 
 ● Create a check that the quantity should not be below 1 unit\
 ● Create a check that the Unit price should not be below $0
