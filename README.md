@@ -9,7 +9,7 @@ A dataset has been provided as the basis for exploration. Data has to be reviewe
 This task will help us get an idea on which visual to select for the given business scenario and will also guide us on how to choose the right chart or graph for     the given data. To complete this task, we need to answer the 5 multiple choice questions. Each question will contain a unique scenario and are expected to answer        the questions based on that scenario.
        
 ## 3. Creating Effective Visuals
-Here before begining the analysis, we have make sure that the data is cleaned properly.\\
+Here before begining the analysis, we have make sure that the data is cleaned properly.\
 Data cleaning:we need to use conditional formulas where the logic would state that if the conditions are met then the tool should exclude the data from                analysis.We can also use data transformation methods to get rid of the bad data.
 
 ● Create a check that the quantity should not be below 1 unit
