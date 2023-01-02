@@ -6,7 +6,7 @@ For this task, we need to draft questions, eight questions in total (4 for the C
 A dataset has been provided as the basis for exploration. Data has to be reviewed, taking note of what information has been provided, what insights one can             garner, and what is relevant to both the CEO and CMO respectively.
         
 ## 2. Choosing the Right Visuals
-This task will help us get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for     the given data. To complete this task, we need to answer the 5 multiple choice questions. Each question will contain a unique scenario and are expected to answer        the questions based on that scenario.
+This task will help us get an idea on which visual to select for the given business scenario and will also guide us on how to choose the right chart or graph for     the given data. To complete this task, we need to answer the 5 multiple choice questions. Each question will contain a unique scenario and are expected to answer        the questions based on that scenario.
        
 ## 3. Creating Effective Visuals
 Here before begining the analysis, we have make sure that the data is cleaned properly. 
